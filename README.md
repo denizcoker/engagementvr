@@ -1,6 +1,6 @@
 # engagementvr
 
-Use this code to enable VR on engagements.
+Use this code to enable VR on engagements. See Google VR View for more: https://github.com/googlevr/vrview/
 
 Add video specfics to configure the vrcontainer.js file:
 ```
